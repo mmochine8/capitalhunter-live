@@ -1,0 +1,198 @@
+{
+  "_Prose-M-bcGa_w.js": {
+    "file": "assets/Prose-M-bcGa_w.js",
+    "name": "Prose",
+    "imports": [
+      "_react-CZyGPQdu.js",
+      "index.html",
+      "_Seo-CLSf3bgX.js",
+      "_icons-BcLUi4sx.js",
+      "_vendor-DFMEHlR-.js"
+    ]
+  },
+  "_Seo-CLSf3bgX.js": {
+    "file": "assets/Seo-CLSf3bgX.js",
+    "name": "Seo",
+    "imports": [
+      "_react-CZyGPQdu.js",
+      "_vendor-DFMEHlR-.js"
+    ]
+  },
+  "_icons-BcLUi4sx.js": {
+    "file": "assets/icons-BcLUi4sx.js",
+    "name": "icons",
+    "imports": [
+      "_react-CZyGPQdu.js"
+    ]
+  },
+  "_markdown-D8408Q05.js": {
+    "file": "assets/markdown-D8408Q05.js",
+    "name": "markdown",
+    "imports": [
+      "_react-CZyGPQdu.js"
+    ]
+  },
+  "_query-DikOKf4V.js": {
+    "file": "assets/query-DikOKf4V.js",
+    "name": "query",
+    "imports": [
+      "_react-CZyGPQdu.js"
+    ]
+  },
+  "_radix-BNWSrQ6s.js": {
+    "file": "assets/radix-BNWSrQ6s.js",
+    "name": "radix",
+    "imports": [
+      "_react-CZyGPQdu.js"
+    ]
+  },
+  "_react-CZyGPQdu.js": {
+    "file": "assets/react-CZyGPQdu.js",
+    "name": "react",
+    "isDynamicEntry": true
+  },
+  "_supabase-BZ8bk2RT.js": {
+    "file": "assets/supabase-BZ8bk2RT.js",
+    "name": "supabase",
+    "imports": [
+      "_vendor-DFMEHlR-.js"
+    ]
+  },
+  "_vendor-DFMEHlR-.js": {
+    "file": "assets/vendor-DFMEHlR-.js",
+    "name": "vendor",
+    "imports": [
+      "_react-CZyGPQdu.js"
+    ],
+    "dynamicImports": [
+      "_react-CZyGPQdu.js"
+    ]
+  },
+  "index.html": {
+    "file": "assets/app-CvSQtQcm.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor-DFMEHlR-.js",
+      "_react-CZyGPQdu.js",
+      "_query-DikOKf4V.js",
+      "_icons-BcLUi4sx.js",
+      "_radix-BNWSrQ6s.js",
+      "_supabase-BZ8bk2RT.js"
+    ],
+    "dynamicImports": [
+      "src/pages/ComingSoon.jsx",
+      "src/pages/Contact.jsx",
+      "src/pages/legal/AffiliateDisclosure.jsx",
+      "src/pages/legal/Privacy.jsx",
+      "src/pages/legal/Terms.jsx",
+      "src/pages/legal/Cookies.jsx",
+      "src/pages/ComingSoon.jsx"
+    ],
+    "css": [
+      "assets/app-Bauid_A5.css"
+    ]
+  },
+  "src/pages/ComingSoon.jsx": {
+    "file": "assets/ComingSoon-b_84s1IU.js",
+    "name": "ComingSoon",
+    "src": "src/pages/ComingSoon.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-CZyGPQdu.js",
+      "_Seo-CLSf3bgX.js",
+      "index.html",
+      "_icons-BcLUi4sx.js",
+      "_vendor-DFMEHlR-.js",
+      "_query-DikOKf4V.js",
+      "_radix-BNWSrQ6s.js",
+      "_supabase-BZ8bk2RT.js"
+    ]
+  },
+  "src/pages/Contact.jsx": {
+    "file": "assets/Contact-DbDrDWl-.js",
+    "name": "Contact",
+    "src": "src/pages/Contact.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-CZyGPQdu.js",
+      "_Prose-M-bcGa_w.js",
+      "_Seo-CLSf3bgX.js",
+      "_icons-BcLUi4sx.js",
+      "index.html",
+      "_vendor-DFMEHlR-.js",
+      "_query-DikOKf4V.js",
+      "_radix-BNWSrQ6s.js",
+      "_supabase-BZ8bk2RT.js"
+    ]
+  },
+  "src/pages/legal/AffiliateDisclosure.jsx": {
+    "file": "assets/AffiliateDisclosure-ClGnoW5H.js",
+    "name": "AffiliateDisclosure",
+    "src": "src/pages/legal/AffiliateDisclosure.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-CZyGPQdu.js",
+      "_Prose-M-bcGa_w.js",
+      "_Seo-CLSf3bgX.js",
+      "index.html",
+      "_vendor-DFMEHlR-.js",
+      "_query-DikOKf4V.js",
+      "_icons-BcLUi4sx.js",
+      "_radix-BNWSrQ6s.js",
+      "_supabase-BZ8bk2RT.js"
+    ]
+  },
+  "src/pages/legal/Cookies.jsx": {
+    "file": "assets/Cookies-DAQG1vMl.js",
+    "name": "Cookies",
+    "src": "src/pages/legal/Cookies.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-CZyGPQdu.js",
+      "_Prose-M-bcGa_w.js",
+      "_Seo-CLSf3bgX.js",
+      "index.html",
+      "_vendor-DFMEHlR-.js",
+      "_query-DikOKf4V.js",
+      "_icons-BcLUi4sx.js",
+      "_radix-BNWSrQ6s.js",
+      "_supabase-BZ8bk2RT.js"
+    ]
+  },
+  "src/pages/legal/Privacy.jsx": {
+    "file": "assets/Privacy-y7kecINb.js",
+    "name": "Privacy",
+    "src": "src/pages/legal/Privacy.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-CZyGPQdu.js",
+      "_Prose-M-bcGa_w.js",
+      "_Seo-CLSf3bgX.js",
+      "index.html",
+      "_vendor-DFMEHlR-.js",
+      "_query-DikOKf4V.js",
+      "_icons-BcLUi4sx.js",
+      "_radix-BNWSrQ6s.js",
+      "_supabase-BZ8bk2RT.js"
+    ]
+  },
+  "src/pages/legal/Terms.jsx": {
+    "file": "assets/Terms-Bo0deZS9.js",
+    "name": "Terms",
+    "src": "src/pages/legal/Terms.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_react-CZyGPQdu.js",
+      "_Prose-M-bcGa_w.js",
+      "_Seo-CLSf3bgX.js",
+      "index.html",
+      "_vendor-DFMEHlR-.js",
+      "_query-DikOKf4V.js",
+      "_icons-BcLUi4sx.js",
+      "_radix-BNWSrQ6s.js",
+      "_supabase-BZ8bk2RT.js"
+    ]
+  }
+}

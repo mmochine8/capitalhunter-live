@@ -1,0 +1,5 @@
+# Cloudflare Pages / Netlify SPA fallback.
+# Static prerendered pages (home, /firms/*, /rules, /calendar, legal…) are served
+# as files first; client-only routes (/go/:slug, /account/*, /confirm) and any
+# unknown path fall back to the SPA shell, which renders the right route or 404.
+/*    /index.html    200

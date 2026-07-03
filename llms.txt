@@ -1,0 +1,94 @@
+# Capital Hunter
+
+> Capital Hunter (capitalhunter.ch) is an independent prop-trading-firm discount aggregator. We publish verified, rules-level data on the top prop firms — drawdown type, news policy, consistency rules, profit splits, payout speed and account sizes — alongside working discount codes, free calculators and honest guides.
+
+We do not sell challenges or run a prop firm. Figures are verified from firm sources and change often; always confirm on the firm's own site before buying. Discounts use partner coupon codes (affiliate).
+
+## Prop firms
+- [Alpha Capital](https://capitalhunter.ch/firms/alpha-capital): Forex prop firm — rules, drawdown, payouts, 25% discount
+- [Alpha Futures](https://capitalhunter.ch/firms/alpha-futures): Futures prop firm — rules, drawdown, payouts, 15% discount
+- [Apex Trader Funding](https://capitalhunter.ch/firms/apex-trader-funding): Futures prop firm — rules, drawdown, payouts, 90% discount
+- [AquaFunded](https://capitalhunter.ch/firms/aquafunded): Futures prop firm — rules, drawdown, payouts, 30% discount
+- [AquaFutures](https://capitalhunter.ch/firms/aquafutures): Futures prop firm — rules, drawdown, payouts, 60% discount
+- [AtmosFunded](https://capitalhunter.ch/firms/atmosfunded): Forex prop firm — rules, drawdown, payouts, 35% discount
+- [Blue Guardian](https://capitalhunter.ch/firms/blue-guardian): Forex prop firm — rules, drawdown, payouts, 30% discount
+- [Blueberry Funded](https://capitalhunter.ch/firms/blueberry-funded): Forex prop firm — rules, drawdown, payouts, 30% discount
+- [Blueberry Futures](https://capitalhunter.ch/firms/blueberry-futures): Futures prop firm — rules, drawdown, payouts, 60% discount
+- [BrightFunded](https://capitalhunter.ch/firms/brightfunded): Forex prop firm — rules, drawdown, payouts, 20% discount
+- [City Traders Imperium](https://capitalhunter.ch/firms/city-traders-imperium): Forex prop firm — rules, drawdown, payouts, 10% discount
+- [Earn2Trade](https://capitalhunter.ch/firms/earn2trade): Futures prop firm — rules, drawdown, payouts, 60% discount
+- [Fintokei](https://capitalhunter.ch/firms/fintokei): Forex prop firm — rules, drawdown, payouts, 15% discount
+- [FTMO](https://capitalhunter.ch/firms/ftmo): Forex prop firm — rules, drawdown, payouts
+- [Funded Futures Family](https://capitalhunter.ch/firms/funded-futures-family): Futures prop firm — rules, drawdown, payouts, 45% discount
+- [FundedNext](https://capitalhunter.ch/firms/fundednext): Forex prop firm — rules, drawdown, payouts
+- [FundedNext Futures](https://capitalhunter.ch/firms/fundednext-futures): Futures prop firm — rules, drawdown, payouts, 47% discount
+- [FunderPro](https://capitalhunter.ch/firms/funderpro): Forex prop firm — rules, drawdown, payouts, 20% discount
+- [Funding Pips](https://capitalhunter.ch/firms/funding-pips): Forex prop firm — rules, drawdown, payouts, 5% discount
+- [FuturesElite](https://capitalhunter.ch/firms/futureselite): Futures prop firm — rules, drawdown, payouts, 40% discount
+- [Goat Funded Futures](https://capitalhunter.ch/firms/goat-funded-futures): Futures prop firm — rules, drawdown, payouts, 50% discount
+- [Hola Prime Futures](https://capitalhunter.ch/firms/hola-prime-futures): Futures prop firm — rules, drawdown, payouts, 50% discount
+- [Maven](https://capitalhunter.ch/firms/maven): Forex prop firm — rules, drawdown, payouts, 5% discount
+- [My Funded Futures](https://capitalhunter.ch/firms/my-funded-futures): Futures prop firm — rules, drawdown, payouts, 50% discount
+- [Take Profit Trader](https://capitalhunter.ch/firms/take-profit-trader): Futures prop firm — rules, drawdown, payouts, 50% discount
+- [The Trading Pit Futures](https://capitalhunter.ch/firms/the-trading-pit-futures): Futures prop firm — rules, drawdown, payouts, 30% discount
+- [The5ers](https://capitalhunter.ch/firms/the5ers): Forex prop firm — rules, drawdown, payouts, 5% discount
+- [ThinkCapital](https://capitalhunter.ch/firms/thinkcapital): Forex prop firm — rules, drawdown, payouts, 25% discount
+- [Top One Futures](https://capitalhunter.ch/firms/top-one-futures): Futures prop firm — rules, drawdown, payouts, 60% discount
+- [TradeDay](https://capitalhunter.ch/firms/tradeday): Futures prop firm — rules, drawdown, payouts, 30% discount
+- [Tradeify](https://capitalhunter.ch/firms/tradeify): Futures prop firm — rules, drawdown, payouts, 40% discount
+- [Traders Launch](https://capitalhunter.ch/firms/traders-launch): Futures prop firm — rules, drawdown, payouts, 15% discount
+
+## Guides
+- [What Is a Prop Firm? A Beginner's Guide](https://capitalhunter.ch/blog/what-is-a-prop-firm): A clear, honest beginner's guide to prop trading firms: how challenges work, key terms, costs, futures vs forex, and the real risks.
+- [Prop Firm Drawdown Explained: Trailing vs End-of-Day vs Static](https://capitalhunter.ch/blog/prop-firm-drawdown-explained): Trailing, end-of-day, and static drawdown decide whether you pass or blow a prop challenge. Here's how each works, with examples and survival tips.
+- [Can You Trade News on Prop Firms? News Trading Rules Explained](https://capitalhunter.ch/blog/trading-news-on-prop-firms): Can you trade NFP, CPI and FOMC on a prop account? A clear, honest guide to prop firm news trading rules and how to stay compliant.
+- [How to Choose a Prop Firm in 2026: A Practical Checklist](https://capitalhunter.ch/blog/how-to-choose-a-prop-firm): An honest, no-hype guide to choosing a prop firm in 2026: match your market, drawdown, rules, payouts, reputation and real price after discount.
+- [How Prop Firm Payouts Work: Profit Splits, Frequency & First Payout](https://capitalhunter.ch/blog/how-prop-firm-payouts-work): How prop firm payouts actually work: profit splits, payout frequency, first-payout rules, withdrawal methods, and why payouts get delayed or denied.
+- [The Prop Firm Consistency Rule Explained (and How to Pass It)](https://capitalhunter.ch/blog/prop-firm-consistency-rule-explained): What the prop firm consistency rule is, why firms use it, how to calculate your best-day percentage, and practical strategies to pass it and keep your payout.
+- [Forex vs Futures Prop Firms: Which Should You Choose?](https://capitalhunter.ch/blog/forex-vs-futures-prop-firms): Forex vs futures prop firms compared: instruments, platforms, drawdown rules, fees, and payouts to help you pick the funding model that fits how you trade.
+- [How to Match a Prop Firm to Your Trading Style (Scalping, Swing, Algo, News)](https://capitalhunter.ch/blog/best-prop-firm-for-your-trading-style): Pick a prop firm by the rules that fit how you trade. A practical guide for scalpers, swing traders, algo/EA users, and news traders.
+- [How to Pass a Prop Firm Challenge: A Realistic Playbook](https://capitalhunter.ch/blog/how-to-pass-prop-firm-challenge): A step-by-step, no-hype playbook for passing a prop firm challenge: the rules, drawdown math, position sizing, and the risk discipline that actually matters.
+- [Best Prop Firms for Beginners: What to Look For in Your First Account](https://capitalhunter.ch/blog/best-prop-firms-for-beginners): How to pick your first prop firm: forgiving drawdown, clear rules, low cost, and a real payout record — not just the biggest brand name.
+- [Trailing vs Static Drawdown: The Rule That Fails Most Accounts](https://capitalhunter.ch/blog/trailing-vs-static-drawdown): Trailing, end-of-day, and static drawdown can share the same dollar limit yet behave nothing alike. See how one trade passes one and breaches another.
+- [Instant vs 1-Step vs 2-Step Prop Firm Evaluations Compared](https://capitalhunter.ch/blog/evaluation-models-compared): Instant, 1-step and 2-step prop firm evaluations compared: phases, targets, cost, speed, rule tightness and who each model actually suits.
+- [The Daily Loss Limit Explained (and How to Respect It)](https://capitalhunter.ch/blog/daily-loss-limit-explained): What a prop firm daily loss limit is, balance vs equity, when it resets, how it differs from max drawdown, and how to avoid breaching it.
+- [Prop Firm Profit Targets Explained: Phases, Days & Daily Gain](https://capitalhunter.ch/blog/profit-targets-explained): How prop firm profit targets work across challenge, verification and funded phases, plus minimum trading days and the realistic daily gain you need.
+- [Prop Firm Payout Buffer Explained](https://capitalhunter.ch/blog/payout-buffer-explained): How a prop firm payout buffer works: the cushion above the drawdown floor, what's withdrawable vs locked, and why firms make you leave it.
+- [Your First Prop Firm Payout: From Passed to Paid](https://capitalhunter.ch/blog/first-payout-guide): The full first-withdrawal flow for prop traders: minimum days, buffer, KYC, processing, methods, and why payouts get delayed.
+- [Risk Management for Prop Firm Traders: Position Sizing, Loss Streaks & Daily Stops](https://capitalhunter.ch/blog/risk-management-for-prop-firms): Risk management for prop firm traders: size against your drawdown buffer, use fixed-fractional risk, survive loss streaks, and hold a daily stop.
+- [Why Most Traders Fail Prop Firm Challenges](https://capitalhunter.ch/blog/why-traders-fail-challenges): The real reasons traders fail prop firm challenges, over-risk, drawdown breaches, consistency, tilt, and rule slips, and how to avoid each.
+- [Are Prop Firms Legit? How to Tell the Real Ones Apart](https://capitalhunter.ch/blog/are-prop-firms-legit): Are prop firms legit? How the funded-account model works, where eval money sits, what makes a firm trustworthy, and the red flags to avoid.
+- [Fastest-Paying Prop Firms: How Payout Speed Really Works](https://capitalhunter.ch/blog/fastest-paying-prop-firms): How prop firm payout speed really works: on-demand vs scheduled cycles, first-payout waiting periods, KYC delays, and why crypto pays fastest.
+- [Prop Firm Scaling Plans Explained: How Your Account Grows](https://capitalhunter.ch/blog/scaling-plans-explained): How prop firm scaling plans grow your account and profit split as you take payouts: the milestones that unlock each step, and the trade-offs.
+- [Drawdown Recovery Math: Why a 50% Loss Needs a 100% Gain](https://capitalhunter.ch/blog/drawdown-recovery-math): A 50% loss takes a 100% gain to break even. Here's the asymmetry of losses and gains, and what it means for prop drawdown limits.
+- [Risk:Reward vs Win Rate: The Math of a Trading Edge](https://capitalhunter.ch/blog/risk-reward-win-rate): Win rate alone doesn't make you profitable. The expectancy math, breakeven win rate per risk:reward, and why high R:R wins under 50%.
+- [Futures Prop Firms Explained: Trailing Thresholds, Micros vs Minis](https://capitalhunter.ch/blog/futures-prop-firms-explained): How futures prop firms work: EOD trailing drawdown, micros vs minis, platforms like Tradovate and Rithmic, activation and data fees, and payout norms.
+- [Prop Firms That Allow News Trading (and How the Rules Work)](https://capitalhunter.ch/blog/prop-firms-that-allow-news-trading): How prop firm news-trading rules work: why firms restrict NFP, CPI and FOMC, the news window concept, and what to check before you trade events.
+- [How Prop Firms Actually Make Money](https://capitalhunter.ch/blog/how-prop-firms-make-money): An honest look at the prop firm revenue model: challenge fees, spreads, the simulated-vs-live debate, B-book conflict, and red flags.
+- [Reset vs. New Account: What to Do After Failing a Prop Firm Challenge](https://capitalhunter.ch/blog/reset-vs-new-account-after-failing): Failed a prop firm challenge? Compare reset fees to a discounted new account, dodge the revenge-buy, and use a clear decision framework.
+- [Do You Pay Tax on Prop Firm Payouts? A Funded Trader's Guide](https://capitalhunter.ch/blog/prop-firm-payout-taxes-guide): How prop firm payouts are generally taxed: paid gross, usually self-employment income, why to set money aside, plus a hedged country overview.
+
+## Free tools
+- [Will I Pass?](https://capitalhunter.ch/tools/challenge): Monte-Carlo probability you pass a challenge
+- [Position Calculator](https://capitalhunter.ch/calculator): Exact lots / contracts for a given risk
+- [Consistency Calculator](https://capitalhunter.ch/tools/consistency): Check a firm best-day rule
+- [Drawdown Calculator](https://capitalhunter.ch/tools/drawdown): How much buffer is left to the floor
+- [Payout Calculator](https://capitalhunter.ch/tools/payout): What you keep after the profit split
+- [News Calendar](https://capitalhunter.ch/calendar): Events your plan can't trade
+- [Rules Matrix](https://capitalhunter.ch/rules): Every plan compared side by side
+- [Trade Journal](https://capitalhunter.ch/journal): Log trades, P&L calendar and stats
+
+## Best-for-style rankings
+- [Best prop firms for scalping](https://capitalhunter.ch/best/for/scalping): ranked from verified rules
+- [Best prop firms for swing trading](https://capitalhunter.ch/best/for/swing): ranked from verified rules
+- [Best prop firms for algo / EA trading](https://capitalhunter.ch/best/for/algo): ranked from verified rules
+- [Best prop firms for news trading](https://capitalhunter.ch/best/for/news): ranked from verified rules
+- [Best prop firms for fast payouts](https://capitalhunter.ch/best/for/payout): ranked from verified rules
+
+## Key pages
+- [All prop firms](https://capitalhunter.ch/firms): full directory
+- [Best lists](https://capitalhunter.ch/best): top firms by category
+- [Compare firms](https://capitalhunter.ch/compare): head-to-head rule tables
+- [News calendar](https://capitalhunter.ch/calendar): per-firm news-trading rules
+- [Rules matrix](https://capitalhunter.ch/rules): every plan side by side
+- [Giveaway](https://capitalhunter.ch/giveaway): $1M in challenges
