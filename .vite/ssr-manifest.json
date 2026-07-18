@@ -6715,30 +6715,30 @@
   "src/api/base44Client.js": [],
   "src/components/CookieBanner.jsx": [],
   "src/components/NewsletterSignup.jsx": [
-    "/assets/ComingSoon-b_84s1IU.js"
+    "/assets/ComingSoon-BfGZS8cy.js"
   ],
   "src/components/Prose.jsx": [
-    "/assets/Prose-M-bcGa_w.js"
+    "/assets/Prose-BMuTp3Ce.js"
   ],
   "src/components/ScrollToTop.jsx": [],
   "src/components/Seo.jsx": [
-    "/assets/Seo-CLSf3bgX.js"
+    "/assets/Seo-H6NXKtJY.js"
   ],
   "src/components/SiteSearch.jsx": [
-    "/assets/Prose-M-bcGa_w.js"
+    "/assets/Prose-BMuTp3Ce.js"
   ],
   "src/components/WebVitals.jsx": [],
   "src/components/layout/ContentPage.jsx": [
-    "/assets/Prose-M-bcGa_w.js"
+    "/assets/Prose-BMuTp3Ce.js"
   ],
   "src/components/layout/Footer.jsx": [
-    "/assets/Prose-M-bcGa_w.js"
+    "/assets/Prose-BMuTp3Ce.js"
   ],
   "src/components/layout/Navbar.jsx": [
-    "/assets/Prose-M-bcGa_w.js"
+    "/assets/Prose-BMuTp3Ce.js"
   ],
   "src/components/layout/SiteShell.jsx": [
-    "/assets/Prose-M-bcGa_w.js"
+    "/assets/Prose-BMuTp3Ce.js"
   ],
   "src/components/ui/button.jsx": [],
   "src/components/ui/toast.jsx": [],
@@ -6752,43 +6752,43 @@
   "src/lib/compare.js": [],
   "src/lib/firms.js": [],
   "src/lib/jsonld.js": [
-    "/assets/ComingSoon-b_84s1IU.js"
+    "/assets/ComingSoon-BfGZS8cy.js"
   ],
   "src/lib/listicles.js": [],
   "src/lib/query-client.js": [],
   "src/lib/ratings.js": [
-    "/assets/Prose-M-bcGa_w.js"
+    "/assets/Prose-BMuTp3Ce.js"
   ],
   "src/lib/searchIndex.js": [
-    "/assets/Prose-M-bcGa_w.js"
+    "/assets/Prose-BMuTp3Ce.js"
   ],
   "src/lib/site.js": [
-    "/assets/Seo-CLSf3bgX.js"
+    "/assets/Seo-H6NXKtJY.js"
   ],
   "src/lib/slug.js": [],
   "src/lib/styleMeta.js": [],
   "src/lib/tools.js": [
-    "/assets/Prose-M-bcGa_w.js"
+    "/assets/Prose-BMuTp3Ce.js"
   ],
   "src/lib/utils.js": [],
   "src/main.jsx": [],
   "src/pages/ComingSoon.jsx": [
-    "/assets/ComingSoon-b_84s1IU.js"
+    "/assets/ComingSoon-BfGZS8cy.js"
   ],
   "src/pages/Contact.jsx": [
-    "/assets/Contact-DbDrDWl-.js"
+    "/assets/Contact-kGWNh9-3.js"
   ],
   "src/pages/legal/AffiliateDisclosure.jsx": [
-    "/assets/AffiliateDisclosure-ClGnoW5H.js"
+    "/assets/AffiliateDisclosure-BIfuOb32.js"
   ],
   "src/pages/legal/Cookies.jsx": [
-    "/assets/Cookies-DAQG1vMl.js"
+    "/assets/Cookies-DVUIVSIH.js"
   ],
   "src/pages/legal/Privacy.jsx": [
-    "/assets/Privacy-y7kecINb.js"
+    "/assets/Privacy-CIo0360h.js"
   ],
   "src/pages/legal/Terms.jsx": [
-    "/assets/Terms-Bo0deZS9.js"
+    "/assets/Terms-C4B_QRvS.js"
   ],
   "src/routes.jsx": []
 }
